@@ -1,2 +1,2 @@
 # DBMS-miniproject
-Database Management system Mini project using HTML,CSS,PHP and SQL
+Database Management system Mini project on Wholesale Management system using HTML,CSS,PHP and SQL
